@@ -1,5 +1,16 @@
 # 💫 About Me:
 I'm a dedicated and collaborative React.js developer with a passion for crafting engaging user experiences. With a strong foundation in HTML, CSS, JavaScript, and React Native, alongside expertise in front-end frameworks like Next.js, I thrive in dynamic environments where innovation meets problem-solving.<br>As a strong communicator, I enjoy collaborating with teams to tackle challenges head-on and deliver impactful solutions. With a year of hands-on experience in the field, I'm committed to continuous learning and growth within the ever-evolving landscape of web and app development.<br><br>
+
+### 💡 Key Skills:
+
+- Frontend Development: **React.js**, **React Native**, **Next.js**
+- Core Web Technologies: **HTML**, **CSS**, **JavaScript**
+- Collaboration & Communication: **Team-oriented**, **Proactive Problem-solver**
+
+### 🚀 What Drives Me: <br />
+
+  I’m passionate about building user-friendly web and mobile applications, collaborating with teams to overcome challenges, and continuously expanding my skillset. With a year of hands-on experience, I’m excited to contribute to projects that make a real impact.
+
 ![](https://komarev.com/ghpvc/?username=harsh-vador)
 
 # 💻 Tech Stack:
@@ -56,7 +67,10 @@ I'm a dedicated and collaborative React.js developer with a passion for crafting
 [![Holopin](https://holopin.onrender.com/harshvador)](https://holopin.io/@harshvador)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
+### 💼 Let’s Connect:
+Feel free to explore my repositories and connect for collaborations or exciting opportunities!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-vador) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@harshvador)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@harshvador17)
