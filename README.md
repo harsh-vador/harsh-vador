@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated and collaborative React.js developer with a passion for crafting engaging user experiences. With a strong foundation in HTML, CSS, JavaScript, and React Native, alongside expertise in front-end frameworks like Next.js, I thrive in dynamic environments where innovation meets problem-solving.<br>As a strong communicator, I enjoy collaborating with teams to tackle challenges head-on and deliver impactful solutions. With a year of hands-on experience in the field, I'm committed to continuous learning and growth within the ever-evolving landscape of web and app development.<br><br>
+I'm a dedicated and collaborative Software Engineer with a passion for crafting engaging user experiences. With a strong foundation in HTML, CSS, JavaScript, and React Native, alongside expertise in front-end frameworks like Next.js, I thrive in dynamic environments where innovation meets problem-solving.<br>As a strong communicator, I enjoy collaborating with teams to tackle challenges head-on and deliver impactful solutions. With a year of hands-on experience in the field, I'm committed to continuous learning and growth within the ever-evolving landscape of web and app development.<br><br>
 
 ### 💡 Key Skills:
 
