@@ -54,7 +54,7 @@ I'm a dedicated and collaborative Software Engineer with a passion for crafting 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-vador&theme=gruvbox&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh-vador&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
@@ -63,8 +63,7 @@ I'm a dedicated and collaborative Software Engineer with a passion for crafting 
 # 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=harsh-vador&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-[![Holopin](https://holopin.onrender.com/harshvador)](https://holopin.io/@harshvador)
+[![An image of @harshvador's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshvador)](https://holopin.io/@harshvador)
 
 
 # 🌐 Socials:
