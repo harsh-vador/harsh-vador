@@ -2,8 +2,6 @@
 
 I'm a dedicated and collaborative **Software Engineer** with a passion for crafting engaging user experiences.
 
----
-
 ## 🚀 What I Do
 
 - **Web & App Development:** Building responsive and dynamic applications.
@@ -24,17 +22,15 @@ I'm a dedicated and collaborative **Software Engineer** with a passion for craft
 
 With a year of hands-on experience, I'm committed to growth and excited to bring creativity and efficiency to every project.
 
-Let's connect and build something amazing together! 🌟
-
-### 💡 Key Skills:
+## 💡 Key Skills:
 
 - Frontend Development: **React.js**, **React Native**, **Next.js**
 - Core Web Technologies: **HTML**, **CSS**, **JavaScript**
 - Collaboration & Communication: **Team-oriented**, **Proactive Problem-solver**
 
-### 🚀 What Drives Me: <br />
+## 🚀 What Drives Me: <br />
 
-  I’m passionate about building user-friendly web and mobile applications, collaborating with teams to overcome challenges, and continuously expanding my skillset. With a year of hands-on experience, I’m excited to contribute to projects that make a real impact.
+  I’m passionate about building user-friendly web and mobile applications, collaborating with teams to overcome challenges, and continuously expanding my skillset. With a year of hands-on experience, I’m excited to contribute to projects that make a real impact. Let's connect and build something amazing together! 🌟
 
 ![](https://komarev.com/ghpvc/?username=harsh-vador)
 
