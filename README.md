@@ -79,7 +79,6 @@ With a year of hands-on experience, I'm committed to growth and excited to bring
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=harsh-vador&theme=dark)](https://git.io/streak-stats)
 
 # 🏆 Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=harsh-vador&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
