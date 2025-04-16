@@ -77,8 +77,8 @@ I'm passionate about building user-friendly web and mobile applications, collabo
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh-vador&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh-vador&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 
 ---
 
