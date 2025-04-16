@@ -1,4 +1,4 @@
-# Hi there, I'm a Software Engineer 👨‍💻
+# Hi there, I'm a Software Engineer👨‍💻
 
 I'm a dedicated and collaborative **Software Engineer** with a passion for crafting engaging user experiences.
 
@@ -77,8 +77,8 @@ I'm passionate about building user-friendly web and mobile applications, collabo
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh-vador&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-vador&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
