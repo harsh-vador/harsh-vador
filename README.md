@@ -4,7 +4,7 @@ I'm a dedicated and collaborative **Software Engineer** with a passion for craft
 
 ## 🚀 What I Do
 - **Web & App Development:** Building responsive and dynamic applications.
-- **Front-End Expertise:** Skilled in **HTML**, **CSS**, **JavaScript** and **React.js**.
+- **Front-End Expertise:** Skilled in **HTML**, **CSS**, **JavaScript** and **React.JS**.
 - **Mobile Magic:** Developing engaging experiences with **React Native**.
 - **Modern Frameworks:** Utilizing **Next.js** to deliver innovative solutions.
 
