@@ -10,7 +10,7 @@ I'm a dedicated and collaborative **Software Engineer** with a passion for craft
 
 ---
 
-## 🤝 My Approach
+## 🤝My Approach
 
 - **Collaboration:** I thrive in team environments, tackling challenges together.
 - **Problem-Solving:** Turning complex issues into impactful solutions.
