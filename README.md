@@ -1,4 +1,4 @@
-# Hi there, I'm a Software Engineer👨‍💻
+# Hi there, I'm a Software Engineer 👨‍💻
 
 I'm a dedicated and collaborative **Software Engineer** with a passion for crafting engaging user experiences.
 
